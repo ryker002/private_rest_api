@@ -1253,5 +1253,140 @@
       ]
     }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+    "companyInfo": {
+      "name": "ACME",
+      "logo": "https://cdn.freebiesupply.com/logos/large/2x/acme-1-logo-png-transparent.png"
+    },
+    "intro": {
+      "introtext": "Thanks for taking time out to tell us more about what’s important to you and how we are performing.",
+      "informationGatherSubtitle": "Great, let's get to know you",
+      "informationGatherTitle": "Tell us, whats your...",
+      "textfields": [
+        { "value": null, "name": "First Name" },
+        { "value": null, "name": "Last Name" },
+        { "value": null, "name": "Email" }
+      ],
+      "importanceTitle": "We want to learn what is important to you.",
+      "importanceSubtitle": "On the next few screens: "
+    },
+    "ImportanceCardSets": [
+      {
+        "index": 0,
+        "id": "1c4c98b4-d327-4de2-bcab-2d6269f64adb",
+        "setName": "Set 1",
+        "questions": [
+          {
+            "question": "Provides access to knowledgeable experts",
+            "id": 1,
+            "key": "45666024-35bb-4d52-9979-b14259406413"
+          },
+          {
+            "question": "Provides flexibility in product options",
+            "id": 2,
+            "key": "8bed2cab-f5da-4aa9-82d8-e962d2bbef17"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "id": "39cf19e2-2108-4b10-bfe2-112c0741ddb6",
+        "setName": "Set 2",
+        "questions": [
+          {
+            "question": "Demonstrates an understanding of your industry",
+            "id": 3,
+            "key": "384fa8e4-7bdc-4d6c-9e40-ac29452efa4e"
+          },
+          {
+            "question": "Expedites resolutions to your problems",
+            "id": 4,
+            "key": "ef865af7-cc27-4f14-9cd4-76f779249969"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "id": "ccc7cfc7-1f37-4d7c-a5b9-7b86b8d6fcb4",
+        "setName": "Set 3",
+        "questions": [
+          {
+            "question": "Provides useful analysis of your data",
+            "id": 5,
+            "key": "360ae6c0-897b-4bcd-aafb-352fd20fbec5"
+          },
+          {
+            "question": "Proposes tailored Solutions",
+            "id": 6,
+            "key": "edf8a541-cc82-4a97-8197-f124f0c6612b"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "id": "9c6dfff2-408a-4008-a621-f6e22af4781d",
+        "setName": "Set 4",
+        "questions": [
+          {
+            "question": "Provides useful analysis of your data",
+            "id": 7,
+            "key": "36efbbd9-0d67-40bc-b2ff-0a44c02c3566"
+          },
+          {
+            "question": "Proposes tailored Solutions",
+            "id": 8,
+            "key": "ba6f6213-6f75-4343-89b6-ec3d8ca22563"
+          }
+        ]
+      }
+    ],
+    "performance": {
+      "title": "Finally, select up to 3 items of what is most important to you"
+    },
+    "performanceCardSets": [
+      {
+        "question": "Demonstrates an understanding of your industry",
+        "id": 1,
+        "key": "384fa8e4-7bdc-4d6c-9e40-ac29452efa4e"
+      },
+      {
+        "question": "Expedites resolutions to your problems",
+        "id": 2,
+        "key": "ef865af7-cc27-4f14-9cd4-76f779249969"
+      },
+      {
+        "question": "Provides useful analysis of your data",
+        "id": 3,
+        "key": "360ae6c0-897b-4bcd-aafb-352fd20fbec5"
+      },
+      {
+        "question": "Proposes tailored Solutions",
+        "id": 4,
+        "key": "edf8a541-cc82-4a97-8197-f124f0c6612b"
+      },
+      {
+        "question": "Treats you as a valued customer",
+        "id": 5,
+        "key": "9952e807-e3ee-4b7a-86db-322b07c4ca93"
+      }
+    ],
+    "scores": [
+      {
+        "name": "NPS",
+        "maxValue": 10,
+        "minValue": 0,
+        "value": 0,
+        "question": "How likely are to you to recommend us to a friend or colleague?"
+      }
+    ],
+    "questionPrompts": [
+      {
+        "name": "OEQ",
+        "question": "How can we improve your experience?"
+      }
+    ],
+    "final": {
+      "question": "Is there anything else you'd like to add?",
+      "thankyouStatement": "Thank you!"
+    }
 }
