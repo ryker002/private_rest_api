@@ -1,176 +1,70 @@
 {
-  "contacts": [
+  "users": [
     {
-      "index": 0,
-      "id": "f838e9da-773e-40d4-a238-5e0d9d65f26f",
-      "picture": "https://source.unsplash.com/collection/1279183/400x400",
+      "name": "Steven Bower",
+      "id": "aa5fdcdd-bbf5-48d4-bde1-85319a895fa4",
+      "locale": "en",
+      "notifications_viewed": false,
+      "picture": "https://images.unsplash.com/photo-1536164261511-3a17e671d380?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=930&q=80"
+    }
+  ],
+  "contactmanagement": [
+    {
+      "userID": "aa5fdcdd-bbf5-48d4-bde1-85319a895fa4",
+      "picture": "https://images.generated.photos/EWV-zLc5-iWQ8pMTKLsTd3L5TNCafscujeCIYmEMkuQ/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yy/XzA4MjExMjUuanBn.jpg",
       "name": {
-        "first": "Karla",
-        "last": "Bauer"
+        "first": "George",
+        "last": "Alberts"
       },
       "company": {
-        "name": "Obliq",
-        "index": 0
+        "id": 1
       },
-      "email": "karla.bauer@obliq.biz",
-      "phone": "(969) 545-2681",
+      "email": "galberts@obliq.com",
+      "phone": "314-555-2321",
       "owner": {
-        "name": "Xurban",
-        "index": 0
+        "name": ""
       },
-      "position": "Account Manager",
+      "position": "CEO",
       "associated": {
-        "name": "Plasto",
-        "index": 0
+        "name": ""
       },
-      "address": "1942 duis duis",
-      "city": "Washington",
-      "state": "Grenada",
-      "zip": 55555,
-      "createdon": "Mon Jul 06 2020 22:09:09 GMT+0000 (UTC)",
-      "lastcontact": "Sun Jan 20 2019 12:27:07 GMT+0000 (UTC)",
+      "address": "821 5 Main St",
+      "city": "",
+      "state": "Missouri",
+      "zip": "",
+      "createdon": "11/6/2020, 3:26:48 PM",
+      "lastcontact": "",
       "notes": [
         {
-          "note": "Consequat eu minim in sit non consequat est pariatur ut. Consequat id eu quis reprehenderit et nostrud non voluptate esse consequat."
+          "note": "<p>This is a test post, to see if this note will apply to the notes section with a <strong>date, </strong>an ID, and content. Wish me luck here!</p>",
+          "date": "11/12/2020, 10:46:53 AM",
+          "id": "_btvbsxgbi"
         }
       ],
       "activity": [
         {
-          "heading": "qui",
-          "content": "Commodo velit non do pariatur incididunt cupidatat eiusmod nisi officia minim aliqua. Nisi incididunt esse qui ut culpa nisi. Tempor reprehenderit laborum ex laborum enim consequat consectetur anim tempor nisi id consequat adipisicing. Eiusmod aute qui ad eiusmod. Anim culpa quis non officia enim qui."
-        },
-        {
-          "heading": "dolore",
-          "content": "Qui in incididunt et reprehenderit ipsum sit sunt. Enim irure ex minim id pariatur. Eu pariatur anim est eu nisi tempor magna eiusmod. Commodo aliqua non in fugiat Lorem enim ex excepteur magna nostrud aliquip elit consequat magna. Cupidatat sit incididunt non officia mollit."
-        },
-        {
-          "heading": "elit",
-          "content": "Voluptate sint nisi Lorem occaecat in. Officia veniam ad ipsum non. Irure velit dolor duis nisi pariatur consequat consequat. Eiusmod quis et occaecat cillum laboris. Elit velit velit magna qui aute aute."
-        }
-      ]
-    },
-    {
-      "index": 1,
-      "id": "f838e9da-773e-40d4-a238-5e0d9d65f26f",
-      "picture": "https://source.unsplash.com/collection/1279183/400x400",
-      "name": {
-        "first": "Juana",
-        "last": "Rogers"
-      },
-      "company": {
-        "name": "Stockpost",
-        "index": 1
-      },
-      "email": "juana.rogers@stockpost.tv",
-      "phone": "(868) 427-2224",
-      "owner": {
-        "name": "Maximind",
-        "index": 1
-      },
-      "position": "Human Resources",
-      "associated": {
-        "name": "Immunics",
-        "index": 1
-      },
-      "address": "1725 mollit sunt",
-      "city": "Turah",
-      "state": "Philippines",
-      "zip": 55555,
-      "createdon": "Wed Oct 23 2019 15:20:05 GMT+0000 (UTC)",
-      "lastcontact": "Wed Mar 25 2020 19:14:44 GMT+0000 (UTC)",
-      "notes": [
-        {
-          "note": "Culpa amet non ipsum proident amet non. Nostrud ea cillum consectetur voluptate occaecat deserunt deserunt do ad laboris sit est ex reprehenderit."
-        },
-        {
-          "note": "Ad magna nulla ut laborum veniam voluptate qui aute pariatur occaecat ad mollit ullamco. Voluptate Lorem excepteur non non sunt reprehenderit incididunt esse."
+          "heading": "No Activity Found",
+          "content": "Please wait until an Activity is Recoreded",
+          "id": 1
         }
       ],
-      "activity": [
-        {
-          "heading": "proident",
-          "content": "Do dolor quis nostrud sit duis pariatur mollit laboris. Reprehenderit veniam sint id id elit mollit reprehenderit eiusmod nulla culpa aliqua. Elit id deserunt ullamco esse ex dolore sint ad mollit cupidatat veniam. Ex do elit exercitation occaecat. Dolor irure laborum aute ullamco irure."
-        },
-        {
-          "heading": "et",
-          "content": "Sunt ex culpa id nulla esse adipisicing ullamco ad magna eu ad pariatur. Dolor voluptate duis et cupidatat id consequat mollit officia eu ad aliqua Lorem cupidatat. Sint non ad nulla id ad tempor. Consequat proident laborum officia consequat elit elit adipisicing reprehenderit. Sunt sunt laborum duis eiusmod consectetur Lorem exercitation."
-        },
-        {
-          "heading": "non",
-          "content": "Eu mollit nostrud aliquip Lorem eu aliqua fugiat nostrud dolor ex sunt minim do. Proident pariatur officia amet anim eiusmod irure labore do ea duis excepteur in ipsum minim. Consequat velit qui dolore pariatur ea est aute quis velit fugiat et. Do nostrud minim laborum esse consectetur ea aliquip labore excepteur commodo ex consectetur. Nulla do dolore et aute Lorem ad adipisicing do culpa occaecat nostrud do."
-        }
-      ]
-    },
-    {
-      "index": 2,
-      "id": "f838e9da-773e-40d4-a238-5e0d9d65f26f",
-      "picture": "https://source.unsplash.com/collection/1279183/400x400",
-      "name": {
-        "first": "Jimmie",
-        "last": "Cummings"
-      },
-      "company": {
-        "name": "Progenex",
-        "index": 2
-      },
-      "email": "jimmie.cummings@progenex.ca",
-      "phone": "(810) 442-3302",
-      "owner": {
-        "name": "Zolarex",
-        "index": 2
-      },
-      "position": "Account Manager",
-      "associated": {
-        "name": "Solaren",
-        "index": 2
-      },
-      "address": "142 aliqua ipsum",
-      "city": "Vienna",
-      "state": "Sao Tome and Principe",
-      "zip": 55555,
-      "createdon": "Sat Mar 14 2020 21:57:57 GMT+0000 (UTC)",
-      "lastcontact": "Sun Apr 07 2019 13:09:09 GMT+0000 (UTC)",
-      "notes": [
-        {
-          "note": "Nostrud mollit non sint enim. Incididunt duis amet occaecat enim nostrud est occaecat."
-        },
-        {
-          "note": "Eu elit consequat nulla nisi ea commodo commodo irure veniam ad. Eiusmod voluptate deserunt occaecat proident reprehenderit labore."
-        },
-        {
-          "note": "Laboris occaecat adipisicing ipsum occaecat pariatur aute quis fugiat excepteur do sit. Commodo elit sunt id quis nulla eiusmod culpa dolore adipisicing nostrud cillum enim."
-        },
-        {
-          "note": "Eu in proident ea esse fugiat velit eu commodo do dolor ad nisi duis eu. Pariatur irure proident laborum dolore aute laboris officia fugiat."
-        },
-        {
-          "note": "Ex sunt nostrud eu proident consectetur irure. Laboris cupidatat ea officia magna ad mollit."
-        }
-      ],
-      "activity": [
-        {
-          "heading": "aute",
-          "content": "Fugiat ipsum ipsum ipsum ex labore nostrud in. Culpa nostrud ad commodo non sint exercitation est amet voluptate occaecat eu officia. Ad ad sit aute commodo velit non ullamco qui esse aliqua veniam reprehenderit magna quis. Veniam nulla non proident est adipisicing in proident Lorem Lorem ut labore et. Ad Lorem magna qui proident nostrud non nostrud ut excepteur amet culpa tempor est eu."
-        }
-      ]
+      "id": "_tZez1C",
+      "region": "Midwest",
+      "randomnonsense": "yes"
     }
   ],
   "companies": [
     {
-      "index": 0,
-      "id": "f838e9da-773e-40d4-a238-5e0d9d65f26f",
-      "companyname": "Exosis",
+      "companyname": "Obliq",
       "picture": "https://source.unsplash.com/collection/4694962/400x400",
       "email": "webmaster@exosis.net",
       "phone": "(846) 435-2336",
       "owner": {
-        "name": "Stucco",
-        "index": 0
+        "name": "Stucco"
       },
       "address": "156 tempor consectetur Street",
       "associated": {
-        "name": "Exotechno",
-        "index": 0
+        "name": "Exotechno"
       },
       "createdon": "Sat Feb 08 2020 22:18:05 GMT+0000 (UTC)",
       "lastcontact": "Mon Apr 13 2020 19:54:55 GMT+0000 (UTC)",
@@ -184,7 +78,35 @@
           "heading": "aliqua",
           "content": "Nostrud sit deserunt non eu fugiat elit. In reprehenderit qui pariatur in. Veniam ut aute veniam nulla nulla occaecat. Laboris occaecat nisi occaecat fugiat eu et. Duis veniam anim deserunt velit consequat."
         }
-      ]
+      ],
+      "id": 1
+    },
+    {
+      "companyname": "Wondershoe",
+      "picture": "https://source.unsplash.com/collection/4694962/400x400",
+      "email": "support@wondershoe.net",
+      "phone": "(846) 435-2336",
+      "owner": {
+        "id": 1
+      },
+      "address": "156 tempor consectetur Street",
+      "associated": {
+        "id": 1
+      },
+      "createdon": "Sat Feb 08 2020 22:18:05 GMT+0000 (UTC)",
+      "lastcontact": "Mon Apr 13 2020 19:54:55 GMT+0000 (UTC)",
+      "notes": [
+        {
+          "note": "Nostrud ut magna quis ut adipisicing aliquip est irure consectetur deserunt. Velit dolor fugiat culpa id nostrud laboris proident exercitation."
+        }
+      ],
+      "activity": [
+        {
+          "heading": "aliqua",
+          "content": "Nostrud sit deserunt non eu fugiat elit. In reprehenderit qui pariatur in. Veniam ut aute veniam nulla nulla occaecat. Laboris occaecat nisi occaecat fugiat eu et. Duis veniam anim deserunt velit consequat."
+        }
+      ],
+      "id": 2
     }
   ],
   "lists": [
@@ -348,7 +270,17 @@
       "options": ["High Risk", "Medium Risk", "Low Risk"]
     }
   ],
-  "profile": { "name": "typicode" },
+  "notifications": [
+    {
+      "content": "George has just finished his assessment, view results now!"
+    },
+    {
+      "content": "You have 4 drafts setup to start soon, review them."
+    },
+    {
+      "content": "Your Contact Import is Complete"
+    }
+  ],
   "companyInfo": {
     "name": "ACME",
     "logo": "https://cdn.freebiesupply.com/logos/large/2x/acme-1-logo-png-transparent.png"
@@ -358,9 +290,18 @@
     "informationGatherSubtitle": "Great, let's get to know you",
     "informationGatherTitle": "Tell us, whats your...",
     "textfields": [
-      { "value": null, "name": "First Name" },
-      { "value": null, "name": "Last Name" },
-      { "value": null, "name": "Email" }
+      {
+        "value": null,
+        "name": "First Name"
+      },
+      {
+        "value": null,
+        "name": "Last Name"
+      },
+      {
+        "value": null,
+        "name": "Email"
+      }
     ],
     "importanceTitle": "We want to learn what is important to you.",
     "importanceSubtitle": "On the next few screens: "
@@ -485,15 +426,29 @@
     "thankyouStatement": "Thank you!"
   },
   "contactTableColumns": [
-    { "field": "index", "hide": true },
-    { "field": "id", "hide": true },
+    {
+      "field": "index",
+      "hide": true
+    },
+    {
+      "field": "id",
+      "hide": true
+    },
     {
       "field": "name",
       "headerName": "Name",
       "width": 150
     },
-    { "field": "email", "headerName": "Email", "width": 250 },
-    { "field": "phone", "headerName": "Phone Number", "width": 150 },
+    {
+      "field": "email",
+      "headerName": "Email",
+      "width": 250
+    },
+    {
+      "field": "phone",
+      "headerName": "Phone Number",
+      "width": 150
+    },
     {
       "field": "company",
       "headerName": "Company"
@@ -510,17 +465,34 @@
       "field": "address",
       "headerName": "Address"
     },
-    { "field": "city", "headerName": "City" },
-    { "field": "state", "headerName": "State" },
-    { "field": "zip", "headerName": "Zip" }
+    {
+      "field": "city",
+      "headerName": "City"
+    },
+    {
+      "field": "state",
+      "headerName": "State"
+    },
+    {
+      "field": "zip",
+      "headerName": "Zip"
+    }
   ],
   "companyColumns": [
     {
       "headerName": "Name",
       "field": "name"
     },
-    { "headerName": "Email", "field": "email", "width": 250 },
-    { "headerName": "Phone Number", "field": "phone", "width": 150 },
+    {
+      "headerName": "Email",
+      "field": "email",
+      "width": 250
+    },
+    {
+      "headerName": "Phone Number",
+      "field": "phone",
+      "width": 150
+    },
     {
       "headerName": "Account Manager",
       "field": "owner"
@@ -529,15 +501,27 @@
       "headerName": "Associated",
       "field": "associated"
     },
-    { "headerName": "Address", "field": "address", "width": 250 }
+    {
+      "headerName": "Address",
+      "field": "address",
+      "width": 250
+    }
   ],
   "contactListColumns": [
     {
       "headerName": "Name",
       "field": "name"
     },
-    { "headerName": "Email", "field": "email", "width": 250 },
-    { "headerName": "Phone Number", "field": "phone", "width": 150 },
+    {
+      "headerName": "Email",
+      "field": "email",
+      "width": 250
+    },
+    {
+      "headerName": "Phone Number",
+      "field": "phone",
+      "width": 150
+    },
     {
       "headerName": "Company",
       "field": "company"
@@ -546,66 +530,216 @@
       "headerName": "Account Manager",
       "field": "owner"
     },
-    { "headerName": "Associated", "field": "associated" },
-    { "headerName": "Address", "field": "address" },
-    { "headerName": "City", "field": "city" },
-    { "headerName": "State", "field": "state" },
-    { "headerName": "zip", "field": "zip" }
+    {
+      "headerName": "Associated",
+      "field": "associated"
+    },
+    {
+      "headerName": "Address",
+      "field": "address"
+    },
+    {
+      "headerName": "City",
+      "field": "city"
+    },
+    {
+      "headerName": "State",
+      "field": "state"
+    },
+    {
+      "headerName": "zip",
+      "field": "zip"
+    }
   ],
   "workflows": [
     {
       "name": "Q4 Client Evaluations",
       "type": "Workflow",
-      "campaign": "Campaign Name",
-      "deployed": "Sun Feb 02 2020 07:50:46 GMT+0000 (UTC)",
-      "status": "draft",
-      "notOpened": 57,
-      "opens": 22,
-      "clicks": 41,
-      "emails": [
-        {
-          "type": "reminder",
-          "trigger": "Immediatly After Campaign Completion",
-          "schedule": "Every day, All day",
-          "LastEdited": "55 Seconds ago"
-        }
-      ]
-    },
-    {
-      "name": "Q4 Client Evaluations",
-      "type": "Workflow",
-      "campaign": "Campaign Name",
-      "deployed": "Sun Feb 02 2020 07:50:46 GMT+0000 (UTC)",
-      "status": "sending",
-      "notOpened": 57,
-      "opens": 22,
-      "clicks": 41,
-      "emails": [
-        {
-          "type": "reminder",
-          "trigger": "Immediatly After Campaign Completion",
-          "schedule": "Every day, All day",
-          "LastEdited": "55 Seconds ago"
-        }
-      ]
-    },
-    {
-      "name": "Q4 Client Evaluations",
-      "type": "Workflow",
-      "campaign": "Campaign Name",
-      "deployed": "Sun Feb 02 2020 07:50:46 GMT+0000 (UTC)",
+      "campaign": "",
+      "deployed": "11/6/2020, 2:34:15 PM",
       "status": "complete",
-      "notOpened": 57,
-      "opens": 22,
-      "clicks": 72,
+      "notOpened": 0,
+      "opens": 0,
+      "clicks": 0,
       "emails": [
         {
-          "type": "reminder",
-          "trigger": "Immediatly After Campaign Completion",
+          "type": "headsup",
+          "trigger": "Immediately upon assessment activation",
           "schedule": "Every day, All day",
-          "LastEdited": "55 Seconds ago"
+          "filter": "None",
+          "action": "None",
+          "LastEdited": null
+        },
+        {
+          "type": "invitation",
+          "trigger": "2 days after participants are sent previous email",
+          "schedule": "Every day, All day",
+          "filter": "None",
+          "action": "None",
+          "LastEdited": null
+        },
+        {
+          "type": "thankyou",
+          "trigger": "Immediately after assessment completion",
+          "schedule": "Every day, All day",
+          "filter": "None",
+          "action": "None",
+          "LastEdited": null
         }
-      ]
+      ],
+      "reminderEmail": 3,
+      "id": 1
+    },
+    {
+      "name": "Seasonal Greetings",
+      "type": "Workflow",
+      "campaign": "",
+      "deployed": "11/6/2020, 2:49:24 PM",
+      "status": "draft",
+      "notOpened": null,
+      "opens": null,
+      "clicks": null,
+      "emails": [
+        {
+          "type": "headsup",
+          "trigger": "Immediately upon assessment activation",
+          "schedule": "Every day, All day",
+          "filter": "None",
+          "action": "None",
+          "LastEdited": null,
+          "workflowId": 2
+        },
+        {
+          "type": "invitation",
+          "trigger": "2 days after participants are sent previous email",
+          "schedule": "Every day, All day",
+          "filter": "None",
+          "action": "None",
+          "LastEdited": null,
+          "workflowId": 2
+        },
+        {
+          "type": "thankyou",
+          "trigger": "Immediately after assessment completion",
+          "schedule": "Every day, All day",
+          "filter": "None",
+          "action": "None",
+          "LastEdited": null,
+          "workflowId": 2
+        }
+      ],
+      "reminderEmail": 1,
+      "id": 2
+    },
+    {
+      "name": "Q4 Client Evaluations",
+      "type": "Workflow",
+      "campaign": "",
+      "deployed": "11/6/2020, 2:34:15 PM",
+      "status": "sending",
+      "notOpened": 0,
+      "opens": 0,
+      "clicks": 0,
+      "emails": [
+        {
+          "type": "headsup",
+          "trigger": "Immediately upon assessment activation",
+          "schedule": "Every day, All day",
+          "filter": "None",
+          "action": "None",
+          "LastEdited": null
+        },
+        {
+          "type": "invitation",
+          "trigger": "2 days after participants are sent previous email",
+          "schedule": "Every day, All day",
+          "filter": "None",
+          "action": "None",
+          "LastEdited": null
+        },
+        {
+          "type": "thankyou",
+          "trigger": "Immediately after assessment completion",
+          "schedule": "Every day, All day",
+          "filter": "None",
+          "action": "None",
+          "LastEdited": null
+        }
+      ],
+      "reminderEmail": 3,
+      "id": 3
+    }
+  ],
+  "emails": [
+    {
+      "type": "headsup",
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": null,
+      "workflowId": 1,
+      "id": "00e0e4eb"
+    },
+    {
+      "type": "invitation",
+      "trigger": "2 days after participants are sent previous email",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": null,
+      "workflowId": 1,
+      "id": "6984237d"
+    },
+    {
+      "type": "thankyou",
+      "trigger": "Immediately after assessment completion",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": null,
+      "workflowId": 1,
+      "id": "3idw02k"
+    },
+    {
+      "type": "headsup",
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": null,
+      "workflowId": 2,
+      "id": "as3je66"
+    },
+    {
+      "type": "invitation",
+      "trigger": "2 days after participants are sent previous email",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": null,
+      "workflowId": 2,
+      "id": "96h49a"
+    },
+    {
+      "type": "thankyou",
+      "trigger": "Immediately after assessment completion",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": null,
+      "workflowId": 2,
+      "id": "5a5S2a"
+    },
+    {
+      "type": "reminder",
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": null,
+      "workflowId": "1",
+      "id": "YEMFL6F"
     }
   ]
 }
