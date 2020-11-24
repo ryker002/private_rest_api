@@ -17,7 +17,7 @@
         "last": "Alberts"
       },
       "company": {
-        "id": 1
+        "id": 2
       },
       "email": "galberts@obliq.com",
       "phone": "314-555-2321",
@@ -29,9 +29,9 @@
         "name": ""
       },
       "address": "821 5 Main St",
-      "city": "",
+      "city": "St. Louis",
       "state": "Missouri",
-      "zip": "",
+      "zip": "63032",
       "createdon": "11/6/2020, 3:26:48 PM",
       "lastcontact": "",
       "notes": [
@@ -39,6 +39,21 @@
           "note": "<p>This is a test post, to see if this note will apply to the notes section with a <strong>date, </strong>an ID, and content. Wish me luck here!</p>",
           "date": "11/12/2020, 10:46:53 AM",
           "id": "_btvbsxgbi"
+        },
+        {
+          "note": "<p><strong>This is another test post, will this work, will this post?</strong></p>",
+          "date": "11/24/2020, 9:52:14 AM",
+          "id": "_cs0h4ucw8"
+        },
+        {
+          "note": "<p>This is mutation check</p><p><br></p><p><em>Did it work?</em></p>",
+          "date": "11/24/2020, 10:06:19 AM",
+          "id": "_s6nxx98jd"
+        },
+        {
+          "note": "<p>M</p><p>u</p><p>t</p><p>a</p><p>t</p><p>I</p><p>o</p><p>n</p><p><br></p><p>Check 2</p>",
+          "date": "11/24/2020, 10:07:29 AM",
+          "id": "_30xfbu763"
         }
       ],
       "activity": [
@@ -51,6 +66,117 @@
       "id": "_tZez1C",
       "region": "Midwest",
       "randomnonsense": "yes"
+    },
+    {
+      "picture": "https://source.unsplash.com/collection/1279183/400x400",
+      "name": {
+        "first": "Johnny",
+        "last": "Appleseed"
+      },
+      "company": {
+        "id": null
+      },
+      "email": "japplefarms@applefarms.com",
+      "phone": "423-555-1252",
+      "owner": {
+        "name": ""
+      },
+      "position": "CFO",
+      "associated": {
+        "name": ""
+      },
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "createdon": "11/20/2020, 9:39:44 AM",
+      "lastcontact": "",
+      "notes": [
+        {
+          "note": "There are no notes, add one now!"
+        }
+      ],
+      "activity": [
+        {
+          "heading": "No Activity Found",
+          "content": "Please wait until an Activity is Recoreded"
+        }
+      ],
+      "id": "NuXxS9a"
+    },
+    {
+      "picture": "https://source.unsplash.com/collection/1279183/400x400",
+      "name": {
+        "first": "Derek",
+        "last": "Haught"
+      },
+      "company": {
+        "id": null
+      },
+      "email": "dhaight@elco.co",
+      "phone": "253-555-2142",
+      "owner": {
+        "name": ""
+      },
+      "position": "Retail Partner",
+      "associated": {
+        "name": ""
+      },
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "createdon": "11/20/2020, 9:39:44 AM",
+      "lastcontact": "",
+      "notes": [
+        {
+          "note": "There are no notes, add one now!"
+        }
+      ],
+      "activity": [
+        {
+          "heading": "No Activity Found",
+          "content": "Please wait until an Activity is Recoreded"
+        }
+      ],
+      "id": "mznYI-T"
+    },
+    {
+      "picture": "https://source.unsplash.com/collection/1279183/400x400",
+      "name": {
+        "first": "Joe",
+        "last": "Smith"
+      },
+      "company": {
+        "id": null
+      },
+      "email": "jsmith@smithy.com",
+      "phone": "612-555-1236",
+      "owner": {
+        "name": ""
+      },
+      "position": "CEO",
+      "associated": {
+        "name": ""
+      },
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "createdon": "11/20/2020, 9:39:44 AM",
+      "lastcontact": "",
+      "notes": [
+        {
+          "note": "There are no notes, add one now!"
+        }
+      ],
+      "activity": [
+        {
+          "heading": "No Activity Found",
+          "content": "Please wait until an Activity is Recoreded"
+        }
+      ],
+      "id": "6a00FT-"
     }
   ],
   "companies": [
@@ -566,170 +692,94 @@
   ],
   "workflows": [
     {
-      "name": "Q4 Client Evaluations",
+      "name": "Generated Draft",
       "type": "Workflow",
       "campaign": "",
-      "deployed": "11/6/2020, 2:34:15 PM",
-      "status": "complete",
-      "notOpened": 0,
-      "opens": 0,
+      "deployed": "11/20/2020, 2:40:08 PM",
+      "status": "draft",
       "clicks": 0,
+      "opens": 0,
       "emails": {
-        "headsup": 0,
-        "invitations": 0,
-        "reminder": 0,
-        "resolution": 0,
-        "thankyou": 0
+        "reminder": 4
       },
-      "reminderEmail": 3,
       "id": 1
     },
     {
-      "name": "Seasonal Assessment",
+      "name": "Complete Workflow",
       "type": "Workflow",
       "campaign": "",
-      "deployed": "11/6/2020, 2:49:24 PM",
-      "status": "draft",
-      "notOpened": null,
-      "opens": null,
-      "clicks": null,
+      "deployed": "11/20/2020, 4:36:43 PM",
+      "status": "complete",
+      "clicks": 34,
+      "opens": 22,
       "emails": {
-        "headsup": 0,
-        "invitations": 0,
-        "reminder": 0,
-        "resolution": 0,
-        "thankyou": 0
+        "headsup": 1,
+        "invitation": 1,
+        "reminder": 2,
+        "resolution": 1,
+        "thankyou": 1
       },
-      "reminderEmail": 1,
       "id": 2
     },
     {
-      "name": "Q4 Client Evaluations",
+      "name": "Sending Workflow",
       "type": "Workflow",
       "campaign": "",
-      "deployed": "11/6/2020, 2:34:15 PM",
+      "deployed": "11/20/2020, 4:38:27 PM",
       "status": "sending",
-      "notOpened": 0,
-      "opens": 0,
       "clicks": 0,
-      "emails": [
-        {
-          "type": "headsup",
-          "trigger": "Immediately upon assessment activation",
-          "schedule": "Every day, All day",
-          "filter": "None",
-          "action": "None",
-          "LastEdited": null
-        },
-        {
-          "type": "invitation",
-          "trigger": "2 days after participants are sent previous email",
-          "schedule": "Every day, All day",
-          "filter": "None",
-          "action": "None",
-          "LastEdited": null
-        },
-        {
-          "type": "thankyou",
-          "trigger": "Immediately after assessment completion",
-          "schedule": "Every day, All day",
-          "filter": "None",
-          "action": "None",
-          "LastEdited": null
-        }
-      ],
-      "reminderEmail": 3,
+      "opens": 0,
+      "emails": {
+        "reminder": 4
+      },
       "id": 3
     },
     {
-      "name": "Email Generation Test",
+      "name": "Mutation Check",
       "type": "Workflow",
       "campaign": "",
-      "deployed": "11/13/2020, 12:50:22 PM",
+      "deployed": "11/20/2020, 5:01:14 PM",
       "status": "draft",
       "clicks": 0,
       "opens": 0,
-      "notOpened": 0,
       "emails": {
-        "headsup": 0,
-        "invitations": 0,
-        "reminder": 0,
-        "resolution": 0,
-        "thankyou": 0
+        "reminder": 3
       },
       "id": 4
     },
     {
-      "name": "Page Generation Test",
+      "name": "Mutation Check 03",
       "type": "Workflow",
       "campaign": "",
-      "deployed": "11/13/2020, 12:50:22 PM",
+      "deployed": "11/23/2020, 10:58:28 AM",
       "status": "draft",
       "clicks": 0,
       "opens": 0,
-      "notOpened": 0,
       "emails": {
-        "headsup": 0,
-        "invitations": 0,
-        "reminder": 0,
-        "resolution": 0,
-        "thankyou": 0
+        "headsup": 1,
+        "invitation": 1,
+        "reminder": 2,
+        "resolution": 1,
+        "thankyou": 1
       },
       "id": 5
     },
     {
-      "name": "Page Test 2",
+      "name": "Mutation Check Again",
       "type": "Workflow",
       "campaign": "",
-      "deployed": "11/13/2020, 1:14:48 PM",
+      "deployed": "11/23/2020, 12:49:48 PM",
       "status": "draft",
       "clicks": 0,
       "opens": 0,
-      "notOpened": 0,
       "emails": {
-        "headsup": 0,
-        "invitations": 0,
-        "reminder": 0,
-        "resolution": 0,
-        "thankyou": 0
+        "headsup": 1,
+        "invitation": 1,
+        "reminder": 4,
+        "resolution": 1,
+        "thankyou": 1
       },
       "id": 6
-    },
-    {
-      "name": "Email Generation Test",
-      "type": "Workflow",
-      "campaign": "",
-      "deployed": "11/16/2020, 10:26:02 AM",
-      "status": "draft",
-      "clicks": 0,
-      "opens": 0,
-      "notOpened": 0,
-      "emails": {
-        "headsup": 0,
-        "invitations": 0,
-        "reminder": 0,
-        "resolution": 0,
-        "thankyou": 0
-      },
-      "id": 7
-    },
-    {
-      "name": "Sequence Test",
-      "type": "Workflow",
-      "campaign": "",
-      "deployed": "11/18/2020, 1:35:10 PM",
-      "status": "draft",
-      "clicks": 0,
-      "opens": 0,
-      "notOpened": 0,
-      "emails": {
-        "headsup": 0,
-        "invitations": 0,
-        "reminder": 0,
-        "resolution": 0,
-        "thankyou": 0
-      },
-      "id": 8
     }
   ],
   "emails": [
@@ -740,9 +790,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": null,
-      "workflowId": 1,
-      "id": "00e0e4eb"
+      "LastEdited": "11/20/2020, 2:40:08 PM",
+      "workflowId": "1",
+      "id": 1
     },
     {
       "type": "invitation",
@@ -751,9 +801,42 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": null,
-      "workflowId": 1,
-      "id": "6984237d"
+      "LastEdited": "11/20/2020, 2:40:08 PM",
+      "workflowId": "1",
+      "id": 2
+    },
+    {
+      "type": "reminder",
+      "sequence": 1,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 2:40:08 PM",
+      "workflowId": "1",
+      "id": 3
+    },
+    {
+      "type": "reminder",
+      "sequence": 2,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 2:40:08 PM",
+      "workflowId": "1",
+      "id": 4
+    },
+    {
+      "type": "resolution",
+      "sequence": 1,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 2:40:08 PM",
+      "workflowId": "1",
+      "id": 5
     },
     {
       "type": "thankyou",
@@ -762,9 +845,31 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": null,
-      "workflowId": 1,
-      "id": "3idw02k"
+      "LastEdited": "11/20/2020, 2:40:08 PM",
+      "workflowId": "1",
+      "id": 6
+    },
+    {
+      "type": "reminder",
+      "sequence": 3,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 4:34:06 PM",
+      "workflowId": "1",
+      "id": 7
+    },
+    {
+      "type": "reminder",
+      "sequence": 4,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 4:34:06 PM",
+      "workflowId": "1",
+      "id": 8
     },
     {
       "type": "headsup",
@@ -773,10 +878,76 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/18/2020, 1:28:06 PM",
-      "workflowId": 2,
-      "id": "as3je66",
-      "subject": "Incoming!",
+      "LastEdited": "11/20/2020, 4:36:43 PM",
+      "workflowId": "2",
+      "id": 9
+    },
+    {
+      "type": "invitation",
+      "sequence": 1,
+      "trigger": "2 days after participants are sent previous email",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 4:36:43 PM",
+      "workflowId": "2",
+      "id": 10
+    },
+    {
+      "type": "reminder",
+      "sequence": 1,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 4:36:43 PM",
+      "workflowId": "2",
+      "id": 11
+    },
+    {
+      "type": "reminder",
+      "sequence": 2,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 4:36:43 PM",
+      "workflowId": "2",
+      "id": 12
+    },
+    {
+      "type": "resolution",
+      "sequence": 1,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 4:36:43 PM",
+      "workflowId": "2",
+      "id": 13
+    },
+    {
+      "type": "thankyou",
+      "sequence": 1,
+      "trigger": "Immediately after assessment completion",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 4:36:43 PM",
+      "workflowId": "2",
+      "id": 14
+    },
+    {
+      "type": "headsup",
+      "sequence": 1,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/23/2020, 2:38:14 PM",
+      "workflowId": "3",
+      "id": 15,
+      "subject": "Hey There",
       "content": "<p>Dear #FIRST_NAME#,</p><p><br></p><p>​</p><p>HM Health Solutions is committed, and I am personally committed, to providing you and #COMPANY_NAME# with ever-improving service. Your feedback is essential as we strive to identify opportunities to enhance our service. I am inviting you and a number of your peers and team members to provide that feedback via a brief survey accessed via this link:</p><p><br></p><p>​</p><p><strong>Please click on the link below to get started. If you are unable to click on the link, please copy and paste it into your browser.</strong></p><p>#SHORT_SURVEY_LINK#</p><p>I would very much appreciate your time and candor in completing the survey by October 31, 2018.</p><p>I look forward to our ongoing partnership and the opportunity to grow better together. If you have any questions about the survey, please don’t hesitate to contact me or send an email to <a href=\"mailto:commercialmarkets@hmhs.com\" rel=\"noopener noreferrer\" target=\"_blank\">commercialmarkets@hmhs.com</a>. Thank you.</p><p><br></p><p>Sincerely,</p><p><br></p><p>​</p><p>#AM_FIRST_NAME#</p><p>HM Health Solutions</p><p><br></p><p>​</p><p>http://www.hmhs.com</p><p><br></p><p>​</p><p>You received this email because you are a partner of HM Health Solutions.</p><p><br></p><p>​</p><p>This survey is being administered by Stonegate at the request of HM Health Solutions.</p><p>Click <a href=\"https://track.smtp2go.com/us/?e=1fzvEDmPZsQtFT.XL7c_IlCA\" rel=\"noopener noreferrer\" target=\"_blank\">here</a> if you believe you have received this email in error.</p>"
     },
     {
@@ -786,9 +957,20 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": null,
-      "workflowId": 2,
-      "id": "96h49a"
+      "LastEdited": "11/20/2020, 4:38:27 PM",
+      "workflowId": "3",
+      "id": 16
+    },
+    {
+      "type": "reminder",
+      "sequence": 1,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 4:38:27 PM",
+      "workflowId": "3",
+      "id": 17
     },
     {
       "type": "thankyou",
@@ -797,108 +979,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": null,
-      "workflowId": 2,
-      "id": "5a5S2a"
-    },
-    {
-      "type": "reminder",
-      "sequence": 1,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": null,
-      "workflowId": "1",
-      "id": "YEMFL6F"
-    },
-    {
-      "type": "headsup",
-      "sequence": 1,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "4",
-      "id": "_ooFlfH"
-    },
-    {
-      "type": "invitation",
-      "sequence": 1,
-      "trigger": "2 days after participants are sent previous email",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "4",
-      "id": "fZ0GH_x"
-    },
-    {
-      "type": "reminder",
-      "sequence": 1,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "4",
-      "id": "lg1R7jz"
-    },
-    {
-      "type": "resolution",
-      "sequence": 1,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "4",
-      "id": "3ilsaHG"
-    },
-    {
-      "type": "thankyou",
-      "sequence": 1,
-      "trigger": "Immediately after assessment completion",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "4",
-      "id": "8vynt-q"
-    },
-    {
-      "type": "headsup",
-      "sequence": 1,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "5",
-      "id": "bYgq-ia"
-    },
-    {
-      "type": "invitation",
-      "sequence": 1,
-      "trigger": "2 days after participants are sent previous email",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "5",
-      "id": "yxNPpkL"
-    },
-    {
-      "type": "reminder",
-      "sequence": 1,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "5",
-      "id": "_m6tncE"
+      "LastEdited": "11/20/2020, 4:38:27 PM",
+      "workflowId": "3",
+      "id": 18
     },
     {
       "type": "reminder",
@@ -907,9 +990,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "5",
-      "id": "o9QOd4e"
+      "LastEdited": "11/20/2020, 4:38:27 PM",
+      "workflowId": "3",
+      "id": 19
     },
     {
       "type": "reminder",
@@ -918,20 +1001,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "5",
-      "id": "nGLDMSJ"
-    },
-    {
-      "type": "reminder",
-      "sequence": 4,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "5",
-      "id": "9UBngdw"
+      "LastEdited": "11/20/2020, 4:38:27 PM",
+      "workflowId": "3",
+      "id": 20
     },
     {
       "type": "resolution",
@@ -940,20 +1012,20 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "5",
-      "id": "gti6Ehx"
+      "LastEdited": "11/20/2020, 4:38:27 PM",
+      "workflowId": "3",
+      "id": 21
     },
     {
-      "type": "thankyou",
-      "sequence": 1,
-      "trigger": "Immediately after assessment completion",
+      "type": "reminder",
+      "sequence": 4,
+      "trigger": "Immediately upon assessment activation",
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/13/2020, 12:50:22 PM",
-      "workflowId": "5",
-      "id": "gWei7Uc"
+      "LastEdited": "11/20/2020, 4:40:41 PM",
+      "workflowId": "3",
+      "id": 22
     },
     {
       "type": "headsup",
@@ -962,9 +1034,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/17/2020, 4:34:00 PM",
-      "workflowId": "7",
-      "id": "x_aaAJ_"
+      "LastEdited": "11/20/2020, 5:01:14 PM",
+      "workflowId": "4",
+      "id": 23
     },
     {
       "type": "invitation",
@@ -973,9 +1045,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/17/2020, 4:34:00 PM",
-      "workflowId": "7",
-      "id": "wqcyYSb"
+      "LastEdited": "11/20/2020, 5:01:14 PM",
+      "workflowId": "4",
+      "id": 24
     },
     {
       "type": "reminder",
@@ -984,9 +1056,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/17/2020, 4:34:00 PM",
-      "workflowId": "7",
-      "id": "nHH_c-d"
+      "LastEdited": "11/20/2020, 5:01:14 PM",
+      "workflowId": "4",
+      "id": 25
     },
     {
       "type": "reminder",
@@ -995,11 +1067,31 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/17/2020, 4:34:00 PM",
-      "workflowId": "7",
-      "id": "CF3o9b-",
-      "subject": "Hey!",
-      "content": "<p>Dear #FIRST_NAME#,</p><p><br></p><p>​</p><p>HM Health Solutions is committed, and I am personally committed, to providing you and #COMPANY_NAME# with ever-improving service. Your feedback is essential as we strive to identify opportunities to enhance our service. I am inviting you and a number of your peers and team members to provide that feedback via a brief survey accessed via this link:</p><p><br></p><p>​</p><p><strong>Please click on the link below to get started. If you are unable to click on the link, please copy and paste it into your browser.</strong></p><p>#SHORT_SURVEY_LINK#</p><p>I would very much appreciate your time and candor in completing the survey by October 31, 2018.</p><p>I look forward to our ongoing partnership and the opportunity to grow better together. If you have any questions about the survey, please don’t hesitate to contact me or send an email to <a href=\"mailto:commercialmarkets@hmhs.com\" rel=\"noopener noreferrer\" target=\"_blank\">commercialmarkets@hmhs.com</a>. Thank you.</p><p><br></p><p>Sincerely,</p><p><br></p><p>​</p><p>#AM_FIRST_NAME#</p><p>HM Health Solutions</p><p><br></p><p>​</p><p>http://www.hmhs.com</p><p><br></p><p> ​</p><p>You received this email because you are a partner of HM Health Solutions.</p><p><br></p><p>​</p><p>This survey is being administered by Stonegate at the request of HM Health Solutions.</p><p>Click <a href=\"https://track.smtp2go.com/us/?e=1fzvEDmPZsQtFT.XL7c_IlCA\" rel=\"noopener noreferrer\" target=\"_blank\">here</a> if you believe you have received this email in error.</p>"
+      "LastEdited": "11/20/2020, 5:01:14 PM",
+      "workflowId": "4",
+      "id": 26
+    },
+    {
+      "type": "resolution",
+      "sequence": 1,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 5:01:14 PM",
+      "workflowId": "4",
+      "id": 27
+    },
+    {
+      "type": "thankyou",
+      "sequence": 1,
+      "trigger": "Immediately after assessment completion",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/20/2020, 5:01:14 PM",
+      "workflowId": "4",
+      "id": 28
     },
     {
       "type": "reminder",
@@ -1008,31 +1100,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/17/2020, 4:34:00 PM",
-      "workflowId": "7",
-      "id": "_upBEMN"
-    },
-    {
-      "type": "thankyou",
-      "sequence": 1,
-      "trigger": "Immediately after assessment completion",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/17/2020, 4:34:00 PM",
-      "workflowId": "7",
-      "id": "2xyiqof"
-    },
-    {
-      "type": "resolution",
-      "sequence": 1,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/17/2020, 4:34:00 PM",
-      "workflowId": "7",
-      "id": "mR8Tgdj"
+      "LastEdited": "11/20/2020, 5:01:14 PM",
+      "workflowId": "4",
+      "id": 29
     },
     {
       "type": "headsup",
@@ -1041,9 +1111,20 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/18/2020, 1:35:56 PM",
-      "workflowId": "8",
-      "id": "O-lw6kS"
+      "LastEdited": "11/23/2020, 10:58:28 AM",
+      "workflowId": "5",
+      "id": 30
+    },
+    {
+      "type": "headsup",
+      "sequence": 1,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/23/2020, 12:49:48 PM",
+      "workflowId": "6",
+      "id": 31
     },
     {
       "type": "invitation",
@@ -1052,9 +1133,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/18/2020, 1:35:56 PM",
-      "workflowId": "8",
-      "id": "uLC13tZ"
+      "LastEdited": "11/23/2020, 12:49:48 PM",
+      "workflowId": "6",
+      "id": 32
     },
     {
       "type": "reminder",
@@ -1063,9 +1144,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/18/2020, 1:35:56 PM",
-      "workflowId": "8",
-      "id": "NvgN76C"
+      "LastEdited": "11/23/2020, 12:49:48 PM",
+      "workflowId": "6",
+      "id": 33
     },
     {
       "type": "reminder",
@@ -1074,11 +1155,20 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/19/2020, 10:45:00 AM",
-      "workflowId": "8",
-      "id": "fIab4j7",
-      "subject": "t",
-      "content": "<p>Dear #FIRST_NAME#,</p><p><br></p><p>​</p><p>HM Health Solutions is committed, and I am personally committed, to providing you and #COMPANY_NAME# with ever-improving service. Your feedback is essential as we strive to identify opportunities to enhance our service. I am inviting you and a number of your peers and team members to provide that feedback via a brief survey accessed via this link:</p><p><br></p><p>​</p><p><strong>Please click on the link below to get started. If you are unable to click on the link, please copy and paste it into your browser.</strong></p><p>#SHORT_SURVEY_LINK#</p><p>I would very much appreciate your time and candor in completing the survey by October 31, 2018.</p><p>I look forward to our ongoing partnership and the opportunity to grow better together. If you have any questions about the survey, please don’t hesitate to contact me or send an email to <a href=\"mailto:commercialmarkets@hmhs.com\" rel=\"noopener noreferrer\" target=\"_blank\">commercialmarkets@hmhs.com</a>. Thank you.</p><p><br></p><p>Sincerely,</p><p><br></p><p>​</p><p>#AM_FIRST_NAME#</p><p>HM Health Solutions</p><p><br></p><p>​</p><p>http://www.hmhs.com</p><p><br></p><p> ​</p><p>You received this email because you are a partner of HM Health Solutions.</p><p><br></p><p>​</p><p>This survey is being administered by Stonegate at the request of HM Health Solutions.</p><p>Click <a href=\"https://track.smtp2go.com/us/?e=1fzvEDmPZsQtFT.XL7c_IlCA\" rel=\"noopener noreferrer\" target=\"_blank\">here</a> if you believe you have received this email in error.</p>"
+      "LastEdited": "11/23/2020, 12:49:48 PM",
+      "workflowId": "6",
+      "id": 34
+    },
+    {
+      "type": "reminder",
+      "sequence": 3,
+      "trigger": "Immediately upon assessment activation",
+      "schedule": "Every day, All day",
+      "filter": "None",
+      "action": "None",
+      "LastEdited": "11/23/2020, 12:49:48 PM",
+      "workflowId": "6",
+      "id": 35
     },
     {
       "type": "resolution",
@@ -1087,9 +1177,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/18/2020, 1:35:56 PM",
-      "workflowId": "8",
-      "id": "IH4WTna"
+      "LastEdited": "11/23/2020, 12:49:48 PM",
+      "workflowId": "6",
+      "id": 36
     },
     {
       "type": "thankyou",
@@ -1098,31 +1188,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/18/2020, 1:35:56 PM",
-      "workflowId": "8",
-      "id": "la7CXBR"
-    },
-    {
-      "type": "reminder",
-      "sequence": 0,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/18/2020, 1:37:54 PM",
-      "workflowId": "8",
-      "id": "Og9uGsi"
-    },
-    {
-      "type": "reminder",
-      "sequence": 0,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/18/2020, 1:38:12 PM",
-      "workflowId": "8",
-      "id": "tUeqlIV"
+      "LastEdited": "11/23/2020, 12:49:48 PM",
+      "workflowId": "6",
+      "id": 37
     },
     {
       "type": "reminder",
@@ -1131,86 +1199,9 @@
       "schedule": "Every day, All day",
       "filter": "None",
       "action": "None",
-      "LastEdited": "11/18/2020, 2:24:46 PM",
-      "workflowId": "7",
-      "id": "NrxUPa2"
-    },
-    {
-      "type": "headsup",
-      "sequence": 1,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/18/2020, 2:25:19 PM",
+      "LastEdited": "11/23/2020, 12:49:48 PM",
       "workflowId": "6",
-      "id": "V_vMn1t"
-    },
-    {
-      "type": "invitation",
-      "sequence": 1,
-      "trigger": "2 days after participants are sent previous email",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/18/2020, 2:25:19 PM",
-      "workflowId": "6",
-      "id": "iOkpdxS"
-    },
-    {
-      "type": "headsup",
-      "sequence": 1,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/18/2020, 2:25:19 PM",
-      "workflowId": "6",
-      "id": "Ds84Wes"
-    },
-    {
-      "type": "invitation",
-      "sequence": 1,
-      "trigger": "2 days after participants are sent previous email",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/18/2020, 2:25:19 PM",
-      "workflowId": "6",
-      "id": "zKP6Wlk"
-    },
-    {
-      "type": "reminder",
-      "sequence": 1,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/18/2020, 2:25:19 PM",
-      "workflowId": "6",
-      "id": "iw5xV06"
-    },
-    {
-      "type": "resolution",
-      "sequence": 1,
-      "trigger": "Immediately upon assessment activation",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/18/2020, 2:25:19 PM",
-      "workflowId": "6",
-      "id": "Meg__d8"
-    },
-    {
-      "type": "thankyou",
-      "sequence": 1,
-      "trigger": "Immediately after assessment completion",
-      "schedule": "Every day, All day",
-      "filter": "None",
-      "action": "None",
-      "LastEdited": "11/18/2020, 2:25:19 PM",
-      "workflowId": "6",
-      "id": "hMHgy8s"
+      "id": 38
     }
   ]
 }
