@@ -65,7 +65,13 @@
       ],
       "id": "_tZez1C",
       "region": "Midwest",
-      "randomnonsense": "yes"
+      "randomnonsense": "yes",
+      "segments": {
+        "unitedstates": true,
+        "midwest": true,
+        "largegroup": false,
+        "smallgroup": false
+      }
     },
     {
       "picture": "https://source.unsplash.com/collection/1279183/400x400",
@@ -185,13 +191,7 @@
       "picture": "https://source.unsplash.com/collection/4694962/400x400",
       "email": "webmaster@exosis.net",
       "phone": "(846) 435-2336",
-      "owner": {
-        "name": "Stucco"
-      },
       "address": "156 tempor consectetur Street",
-      "associated": {
-        "name": "Exotechno"
-      },
       "createdon": "Sat Feb 08 2020 22:18:05 GMT+0000 (UTC)",
       "lastcontact": "Mon Apr 13 2020 19:54:55 GMT+0000 (UTC)",
       "notes": [
@@ -212,13 +212,7 @@
       "picture": "https://source.unsplash.com/collection/4694962/400x400",
       "email": "support@wondershoe.net",
       "phone": "(846) 435-2336",
-      "owner": {
-        "id": 1
-      },
       "address": "156 tempor consectetur Street",
-      "associated": {
-        "id": 1
-      },
       "createdon": "Sat Feb 08 2020 22:18:05 GMT+0000 (UTC)",
       "lastcontact": "Mon Apr 13 2020 19:54:55 GMT+0000 (UTC)",
       "notes": [
@@ -1203,5 +1197,20 @@
       "workflowId": "6",
       "id": 38
     }
-  ]
+  ],
+  "notes": [
+    {
+      "note": "<h2><strong style=\"color: rgb(68, 68, 68);\">Grimms' Fairy Tales</strong></h2><p><span style=\"color: rgb(68, 68, 68);\">originally known as the </span><em style=\"color: rgb(68, 68, 68);\">Children's and Household Tales</em><span style=\"color: rgb(68, 68, 68);\">, is a collection of fairy tales by the Grimm brothers or \"Brothers Grimm\", Jacob and Wilhelm, first published on 20 December 1812. </span></p><p><br></p><p><span style=\"color: rgb(68, 68, 68);\">The first edition contained 86 stories, and by the seventh edition in 1857, had 210 unique fairy tales.</span></p>",
+      "date": "11/24/2020, 12:57:36 PM",
+      "contactmanagementId": "_tZez1C",
+      "id": 2
+    },
+    {
+      "note": "<p>Is this a json issue?</p>",
+      "date": "11/24/2020, 12:57:36 PM",
+      "contactmanagementId": "_tZez1C",
+      "id": 3
+    }
+  ],
+  "activity": []
 }
