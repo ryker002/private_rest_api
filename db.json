@@ -34,35 +34,6 @@
       "zip": "63032",
       "createdon": "11/6/2020, 3:26:48 PM",
       "lastcontact": "",
-      "notes": [
-        {
-          "note": "<p>This is a test post, to see if this note will apply to the notes section with a <strong>date, </strong>an ID, and content. Wish me luck here!</p>",
-          "date": "11/12/2020, 10:46:53 AM",
-          "id": "_btvbsxgbi"
-        },
-        {
-          "note": "<p><strong>This is another test post, will this work, will this post?</strong></p>",
-          "date": "11/24/2020, 9:52:14 AM",
-          "id": "_cs0h4ucw8"
-        },
-        {
-          "note": "<p>This is mutation check</p><p><br></p><p><em>Did it work?</em></p>",
-          "date": "11/24/2020, 10:06:19 AM",
-          "id": "_s6nxx98jd"
-        },
-        {
-          "note": "<p>M</p><p>u</p><p>t</p><p>a</p><p>t</p><p>I</p><p>o</p><p>n</p><p><br></p><p>Check 2</p>",
-          "date": "11/24/2020, 10:07:29 AM",
-          "id": "_30xfbu763"
-        }
-      ],
-      "activity": [
-        {
-          "heading": "No Activity Found",
-          "content": "Please wait until an Activity is Recoreded",
-          "id": 1
-        }
-      ],
       "id": "_tZez1C",
       "region": "Midwest",
       "randomnonsense": "yes",
@@ -271,9 +242,7 @@
     {
       "name": "Company Name",
       "type": "Autosuggest",
-      "options": [
-        "ACME"
-      ]
+      "options": ["ACME"]
     },
     {
       "name": "Company Size",
@@ -291,19 +260,12 @@
     {
       "name": "Account Manager",
       "type": "Autosuggest",
-      "options": [
-        "George Smith"
-      ]
+      "options": ["George Smith"]
     },
     {
       "name": "Annual Revenue",
       "type": "Select",
-      "options": [
-        "0-100K",
-        "101K-500K",
-        "501K-1M",
-        "1M+"
-      ]
+      "options": ["0-100K", "101K-500K", "501K-1M", "1M+"]
     },
     {
       "name": "Last Modified Date",
@@ -396,11 +358,7 @@
     {
       "name": "At Risk",
       "type": "Select",
-      "options": [
-        "High Risk",
-        "Medium Risk",
-        "Low Risk"
-      ]
+      "options": ["High Risk", "Medium Risk", "Low Risk"]
     }
   ],
   "notifications": [

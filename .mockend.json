@@ -1,0 +1,39 @@
+{
+  "users": {
+    "name": "String",
+    "id": "String",
+    "locale": "String",
+    "notifications_viewed": "Boolean",
+    "picture": "String"
+  },
+  "Name": {
+    "first": "String",
+    "last": "String"
+  },
+  "Segments": {
+    "unitedstates": "Boolean",
+    "midwest": "Boolean",
+    "largegroup": "Boolean",
+    "smallgroup": "Boolean"
+  },
+  "contactmanagement": {
+    "userID": "String",
+    "picture": "String",
+    "name": "Name[]",
+    "company": "Int",
+    "email": "String",
+    "phone": "String",
+    "owner": "Int",
+    "position": "String",
+    "associated": "Int",
+    "address": "String",
+    "city": "String",
+    "state": "String",
+    "zip": "Int",
+    "createdon": "String",
+    "lastcontact": "String",
+    "id": "String",
+    "region": "String",
+    "segments": "Segments[]"
+  }
+}
