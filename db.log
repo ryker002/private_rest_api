@@ -198,3 +198,40 @@
 [0mGET /contactfilters [36m304[0m 19.676 ms - -[0m
 [0mGET /contactmanagement [36m304[0m 83.298 ms - -[0m
 [0mGET /lists [36m304[0m 82.703 ms - -[0m
+  db.json has changed, reloading...
+
+  Loading db.json
+  db.json has changed, reloading...
+  Loading routes.json
+  Done
+
+  Resources
+  http://localhost:8888/users
+  http://localhost:8888/contactmanagement
+  http://localhost:8888/companies
+  http://localhost:8888/lists
+  http://localhost:8888/companylists
+  http://localhost:8888/contactfilters
+  http://localhost:8888/notifications
+  http://localhost:8888/companyInfo
+  http://localhost:8888/intro
+  http://localhost:8888/ImportanceCardSets
+  http://localhost:8888/performance
+  http://localhost:8888/performanceCardSets
+  http://localhost:8888/scores
+  http://localhost:8888/questionPrompts
+  http://localhost:8888/final
+  http://localhost:8888/contactTableColumns
+  http://localhost:8888/companyColumns
+  http://localhost:8888/contactListColumns
+  http://localhost:8888/workflows
+  http://localhost:8888/emails
+  http://localhost:8888/notes
+  http://localhost:8888/activity
+
+  Other routes
+  /api/* -> /$1
+
+  Home
+  http://localhost:8888
+

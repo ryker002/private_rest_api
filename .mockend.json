@@ -1,5 +1,5 @@
 {
-  "users": {
+  "User": {
     "name": "String",
     "id": "String",
     "locale": "String",
@@ -10,13 +10,13 @@
     "first": "String",
     "last": "String"
   },
-  "Segments": {
+  "Segment": {
     "unitedstates": "Boolean",
     "midwest": "Boolean",
     "largegroup": "Boolean",
     "smallgroup": "Boolean"
   },
-  "contactmanagement": {
+  "ContactManagement": {
     "userID": "String",
     "picture": "String",
     "name": "Name[]",
@@ -34,6 +34,6 @@
     "lastcontact": "String",
     "id": "String",
     "region": "String",
-    "segments": "Segments[]"
+    "segments": "Segment[]"
   }
 }
