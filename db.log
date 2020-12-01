@@ -384,3 +384,199 @@
 [0mGET /contactmanagement/_tZez1C [36m304[0m 46.570 ms - -[0m
 [0mGET /companies/2 [36m304[0m 46.262 ms - -[0m
 [0mGET /contactmanagement/_tZez1C/activity?_sort=id&_order=desc [36m304[0m 9.640 ms - -[0m
+[0mGET /users [36m304[0m 446.348 ms - -[0m
+[0mGET /companies/? [36m304[0m 594.391 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/notes [36m304[0m 596.140 ms - -[0m
+[0mGET /contactmanagement/_tZez1C [36m304[0m 598.069 ms - -[0m
+[0mGET /companies/2 [36m304[0m 598.652 ms - -[0m
+[0mGET /notifications [36m304[0m 593.756 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/activity?_sort=id&_order=desc [36m304[0m 10.450 ms - -[0m
+[0mGET /users [36m304[0m 70.471 ms - -[0m
+[0mGET /notifications [36m304[0m 117.865 ms - -[0m
+[0mGET /companies/? [36m304[0m 126.830 ms - -[0m
+[0mGET /contactmanagement/_tZez1C [36m304[0m 444.430 ms - -[0m
+[0mGET /companies/2 [36m304[0m 458.493 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/notes [36m304[0m 454.347 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/activity?_sort=id&_order=desc [36m304[0m 31.671 ms - -[0m
+[0mGET /users [36m304[0m 7.800 ms - -[0m
+[0mGET /notifications [36m304[0m 10.211 ms - -[0m
+[0mGET /companies/? [36m304[0m 11.634 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/notes [36m304[0m 10.874 ms - -[0m
+[0mGET /contactmanagement/_tZez1C [36m304[0m 17.465 ms - -[0m
+[0mGET /companies/2 [36m304[0m 19.186 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/activity?_sort=id&_order=desc [36m304[0m 13.168 ms - -[0m
+[0mGET /notifications [36m304[0m 4.251 ms - -[0m
+[0mGET /users [36m304[0m 5.740 ms - -[0m
+[0mGET /contactmanagement/_tZez1C [36m304[0m 7.476 ms - -[0m
+[0mGET /companies/? [36m304[0m 3.238 ms - -[0m
+[0mGET /companies/2 [36m304[0m 7.561 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/notes [36m304[0m 3.372 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/activity?_sort=id&_order=desc [36m304[0m 8.503 ms - -[0m
+[0mGET /users [36m304[0m 161.404 ms - -[0m
+[0mGET /notifications [36m304[0m 133.339 ms - -[0m
+[0mGET /companies/? [36m304[0m 140.772 ms - -[0m
+[0mGET /contactmanagement/_tZez1C [36m304[0m 413.950 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/notes [36m304[0m 657.247 ms - -[0m
+[0mGET /companies/2 [36m304[0m 660.622 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/activity?_sort=id&_order=desc [36m304[0m 19.681 ms - -[0m
+[0mGET /users [36m304[0m 95.753 ms - -[0m
+[0mGET /notifications [36m304[0m 97.172 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/activity?_sort=id&_order=desc [36m304[0m 5.207 ms - -[0m
+[0mGET /companies/? [36m304[0m 6.172 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/notes [36m304[0m 7.325 ms - -[0m
+[0mGET /contactmanagement/_tZez1C [36m304[0m 9.505 ms - -[0m
+[0mGET /companies/2 [36m304[0m 9.628 ms - -[0m
+[0mGET /users [36m304[0m 46.491 ms - -[0m
+[0mGET /notifications [36m304[0m 46.841 ms - -[0m
+[0mGET /companies/? [36m304[0m 127.470 ms - -[0m
+[0mGET /contactmanagement/_tZez1C [36m304[0m 129.759 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/activity?_sort=id&_order=desc [36m304[0m 129.815 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/notes [36m304[0m 131.566 ms - -[0m
+[0mGET /companies/2 [36m304[0m 10.211 ms - -[0m
+[0mGET /users [36m304[0m 3.068 ms - -[0m
+[0mGET /notifications [36m304[0m 5.521 ms - -[0m
+[0mGET /contactmanagement/_tZez1C [36m304[0m 6.561 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/notes [36m304[0m 3.445 ms - -[0m
+[0mGET /companies/? [36m304[0m 3.355 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/activity?_sort=id&_order=desc [36m304[0m 8.559 ms - -[0m
+[0mGET /companies/2 [36m304[0m 3.617 ms - -[0m
+[0mGET /users [36m304[0m 5.646 ms - -[0m
+[0mGET /notifications [36m304[0m 7.016 ms - -[0m
+[0mGET /companies/? [36m304[0m 11.514 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/notes [36m304[0m 12.904 ms - -[0m
+[0mGET /contactmanagement/_tZez1C [36m304[0m 15.455 ms - -[0m
+[0mGET /companies/2 [36m304[0m 16.179 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/activity?_sort=id&_order=desc [36m304[0m 16.822 ms - -[0m
+[0mGET /users [36m304[0m 5.707 ms - -[0m
+[0mGET /notifications [36m304[0m 6.014 ms - -[0m
+[0mGET /companies/? [36m304[0m 9.035 ms - -[0m
+[0mGET /contactmanagement/_tZez1C [36m304[0m 12.115 ms - -[0m
+[0mGET /companies/2 [36m304[0m 15.842 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/notes [36m304[0m 15.829 ms - -[0m
+[0mGET /contactmanagement/_tZez1C/activity?_sort=id&_order=desc [36m304[0m 8.301 ms - -[0m
+[0mGET /contactfilters [36m304[0m 4.183 ms - -[0m
+[0mGET /contactTableColumns [36m304[0m 9.950 ms - -[0m
+[0mGET /contactmanagement [36m304[0m 171.518 ms - -[0m
+[0mGET /lists [36m304[0m 10.031 ms - -[0m
+[0mGET /lists [36m304[0m 4.302 ms - -[0m
+[0mGET /null [33m404[0m 2.860 ms - 2[0m
+[0mGET /contactfilters [36m304[0m 8.377 ms - -[0m
+[0mGET /users [36m304[0m 15.309 ms - -[0m
+[0mGET /contactfilters [36m304[0m 15.332 ms - -[0m
+[0mGET /notifications [36m304[0m 15.671 ms - -[0m
+[0mGET /users [32m200[0m 5.993 ms - 295[0m
+[0mGET /notifications [32m200[0m 3.234 ms - 223[0m
+[0mGET /contactfilters [32m200[0m 6.544 ms - -[0m
+[0mGET /companyColumns [32m200[0m 8.767 ms - 427[0m
+[0mGET /companies [32m200[0m 9.302 ms - -[0m
+[0mGET /users [32m200[0m 4.807 ms - 295[0m
+[0mGET /users [36m304[0m 29.588 ms - -[0m
+[0mGET /notifications [36m304[0m 30.587 ms - -[0m
+[0mGET /contactfilters [36m304[0m 7.494 ms - -[0m
+[0mGET /companies [36m304[0m 6.456 ms - -[0m
+[0mGET /users [36m304[0m 6.210 ms - -[0m
+[0mGET /notifications [36m304[0m 9.763 ms - -[0m
+[0mGET /contactfilters [36m304[0m 14.130 ms - -[0m
+[0mGET /companies [36m304[0m 16.226 ms - -[0m
+[0mGET /contactfilters [36m304[0m 10.358 ms - -[0m
+[0mGET /users [36m304[0m 11.769 ms - -[0m
+[0mGET /notifications [36m304[0m 13.611 ms - -[0m
+[0mGET /companies [36m304[0m 15.719 ms - -[0m
+[0mGET /users [36m304[0m 9.404 ms - -[0m
+[0mGET /notifications [36m304[0m 10.447 ms - -[0m
+[0mGET /contactfilters [36m304[0m 99.405 ms - -[0m
+[0mGET /companies [36m304[0m 103.021 ms - -[0m
+[0mGET /users [36m304[0m 5.894 ms - -[0m
+[0mGET /notifications [36m304[0m 6.294 ms - -[0m
+[0mGET /contactfilters [36m304[0m 7.101 ms - -[0m
+[0mGET /companies [36m304[0m 7.852 ms - -[0m
+[0mGET /users [36m304[0m 22.202 ms - -[0m
+[0mGET /contactfilters [36m304[0m 23.896 ms - -[0m
+[0mGET /companies [36m304[0m 21.530 ms - -[0m
+[0mGET /notifications [36m304[0m 23.477 ms - -[0m
+[0mGET /users [36m304[0m 89.715 ms - -[0m
+[0mGET /notifications [36m304[0m 90.753 ms - -[0m
+[0mGET /contactfilters [36m304[0m 91.621 ms - -[0m
+[0mGET /companies [36m304[0m 93.098 ms - -[0m
+[0mGET /users [36m304[0m 43.138 ms - -[0m
+[0mGET /contactfilters [36m304[0m 72.119 ms - -[0m
+[0mGET /notifications [36m304[0m 45.766 ms - -[0m
+[0mGET /companies [36m304[0m 45.979 ms - -[0m
+[0mGET /users [36m304[0m 19.804 ms - -[0m
+[0mGET /notifications [36m304[0m 2.756 ms - -[0m
+[0mGET /contactfilters [36m304[0m 4.614 ms - -[0m
+[0mGET /companyColumns [36m304[0m 6.809 ms - -[0m
+[0mGET /companies [36m304[0m 7.905 ms - -[0m
+[0mGET /users [36m304[0m 11.075 ms - -[0m
+[0mGET /contactfilters [36m304[0m 12.284 ms - -[0m
+[0mGET /notifications [36m304[0m 5.006 ms - -[0m
+[0mGET /companies [36m304[0m 3.632 ms - -[0m
+[0mGET /users [36m304[0m 7.158 ms - -[0m
+[0mGET /notifications [36m304[0m 4.757 ms - -[0m
+[0mGET /contactfilters [36m304[0m 156.523 ms - -[0m
+[0mGET /companyColumns [36m304[0m 17.813 ms - -[0m
+[0mGET /companies [36m304[0m 88.169 ms - -[0m
+[0mGET /users [36m304[0m 11.116 ms - -[0m
+[0mGET /users [36m304[0m 57.223 ms - -[0m
+[0mGET /notifications [36m304[0m 6.037 ms - -[0m
+[0mGET /contactfilters [36m304[0m 6.386 ms - -[0m
+[0mGET /companyColumns [36m304[0m 4.945 ms - -[0m
+[0mGET /companies [36m304[0m 6.375 ms - -[0m
+[0mGET /companies [36m304[0m 8.208 ms - -[0m
+[0mGET /users [36m304[0m 5.868 ms - -[0m
+[0mGET /companies [36m304[0m 6.715 ms - -[0m
+[0mGET /contactfilters [36m304[0m 354.791 ms - -[0m
+[0mGET /notifications [36m304[0m 357.275 ms - -[0m
+[0mGET /users [36m304[0m 74.253 ms - -[0m
+[0mGET /notifications [36m304[0m 47.696 ms - -[0m
+[0mGET /contactfilters [36m304[0m 8.060 ms - -[0m
+[0mGET /users [36m304[0m 16.594 ms - -[0m
+[0mGET /notifications [36m304[0m 17.684 ms - -[0m
+[0mGET /contactfilters [36m304[0m 18.961 ms - -[0m
+[0mGET /users [36m304[0m 9.647 ms - -[0m
+[0mGET /notifications [36m304[0m 14.900 ms - -[0m
+[0mGET /contactfilters [36m304[0m 15.319 ms - -[0m
+[0mGET /contactTableColumns [36m304[0m 19.121 ms - -[0m
+[0mGET /contactmanagement [36m304[0m 19.801 ms - -[0m
+[0mGET /lists [36m304[0m 64.553 ms - -[0m
+[0mGET /contactmanagement_embed=companies [33m404[0m 6.918 ms - 2[0m
+[0mGET /contactmanagement?_embed=companies [32m200[0m 14.942 ms - -[0m
+[0mGET /contactmanagement?_embed=companie [32m200[0m 4.498 ms - -[0m
+[0mGET /contactmanagement?_embed=company [32m200[0m 7.386 ms - -[0m
+[0mGET /contactmanagement?_embed=companies [32m200[0m 6.991 ms - -[0m
+  db.json has changed, reloading...
+
+  Loading db.json
+  Loading routes.json
+  Done
+
+  Resources
+  http://localhost:8888/users
+  http://localhost:8888/contactmanagement
+  http://localhost:8888/companies
+  http://localhost:8888/lists
+  http://localhost:8888/companylists
+  http://localhost:8888/contactfilters
+  http://localhost:8888/notifications
+  http://localhost:8888/companyInfo
+  http://localhost:8888/intro
+  http://localhost:8888/ImportanceCardSets
+  http://localhost:8888/performance
+  http://localhost:8888/performanceCardSets
+  http://localhost:8888/scores
+  http://localhost:8888/questionPrompts
+  http://localhost:8888/final
+  http://localhost:8888/contactTableColumns
+  http://localhost:8888/companyColumns
+  http://localhost:8888/contactListColumns
+  http://localhost:8888/workflows
+  http://localhost:8888/emails
+  http://localhost:8888/notes
+  http://localhost:8888/activity
+
+  Other routes
+  /api/* -> /$1
+
+  Home
+  http://localhost:8888
+

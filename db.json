@@ -165,17 +165,6 @@
       "address": "156 tempor consectetur Street",
       "createdon": "Sat Feb 08 2020 22:18:05 GMT+0000 (UTC)",
       "lastcontact": "Mon Apr 13 2020 19:54:55 GMT+0000 (UTC)",
-      "notes": [
-        {
-          "note": "Nostrud ut magna quis ut adipisicing aliquip est irure consectetur deserunt. Velit dolor fugiat culpa id nostrud laboris proident exercitation."
-        }
-      ],
-      "activity": [
-        {
-          "heading": "aliqua",
-          "content": "Nostrud sit deserunt non eu fugiat elit. In reprehenderit qui pariatur in. Veniam ut aute veniam nulla nulla occaecat. Laboris occaecat nisi occaecat fugiat eu et. Duis veniam anim deserunt velit consequat."
-        }
-      ],
       "id": 1
     },
     {
@@ -186,17 +175,6 @@
       "address": "156 tempor consectetur Street",
       "createdon": "Sat Feb 08 2020 22:18:05 GMT+0000 (UTC)",
       "lastcontact": "Mon Apr 13 2020 19:54:55 GMT+0000 (UTC)",
-      "notes": [
-        {
-          "note": "Nostrud ut magna quis ut adipisicing aliquip est irure consectetur deserunt. Velit dolor fugiat culpa id nostrud laboris proident exercitation."
-        }
-      ],
-      "activity": [
-        {
-          "heading": "aliqua",
-          "content": "Nostrud sit deserunt non eu fugiat elit. In reprehenderit qui pariatur in. Veniam ut aute veniam nulla nulla occaecat. Laboris occaecat nisi occaecat fugiat eu et. Duis veniam anim deserunt velit consequat."
-        }
-      ],
       "id": 2
     }
   ],
@@ -242,9 +220,7 @@
     {
       "name": "Company Name",
       "type": "Autosuggest",
-      "options": [
-        "ACME"
-      ]
+      "options": ["ACME"]
     },
     {
       "name": "Company Size",
@@ -262,19 +238,12 @@
     {
       "name": "Account Manager",
       "type": "Autosuggest",
-      "options": [
-        "George Smith"
-      ]
+      "options": ["George Smith"]
     },
     {
       "name": "Annual Revenue",
       "type": "Select",
-      "options": [
-        "0-100K",
-        "101K-500K",
-        "501K-1M",
-        "1M+"
-      ]
+      "options": ["0-100K", "101K-500K", "501K-1M", "1M+"]
     },
     {
       "name": "Last Modified Date",
@@ -367,11 +336,7 @@
     {
       "name": "At Risk",
       "type": "Select",
-      "options": [
-        "High Risk",
-        "Medium Risk",
-        "Low Risk"
-      ]
+      "options": ["High Risk", "Medium Risk", "Low Risk"]
     }
   ],
   "notifications": [
