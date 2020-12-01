@@ -16,18 +16,12 @@
         "first": "George",
         "last": "Alberts"
       },
-      "company": {
-        "id": 2
-      },
-      "email": "galberts@obliq.com",
+      "company": 2,
+      "email": "galberts@obliq.co",
       "phone": "314-555-2321",
-      "owner": {
-        "name": ""
-      },
+      "owner": 2,
       "position": "CEO",
-      "associated": {
-        "name": ""
-      },
+      "associated": 2,
       "address": "821 5 Main St",
       "city": "St. Louis",
       "state": "Missouri",
@@ -36,7 +30,7 @@
       "lastcontact": "",
       "id": "_tZez1C",
       "region": "Midwest",
-      "randomnonsense": "yes",
+      "randomnonsense": "yes-",
       "segments": {
         "unitedstates": true,
         "midwest": true,
@@ -1195,6 +1189,18 @@
       "data": [],
       "contactmanagementId": "_tZez1C",
       "id": 3
+    }
+  ],
+  "assessments": [
+    {
+      "name": "Pre-defined Assessment",
+      "campaign": "Campaign Title",
+      "deployed": "11/20/2020, 2:40:08 PM",
+      "status": "draft",
+      "notstarted": 0,
+      "inprogress": 0,
+      "complete": 0,
+      "id": 1
     }
   ]
 }
