@@ -242,7 +242,9 @@
     {
       "name": "Company Name",
       "type": "Autosuggest",
-      "options": ["ACME"]
+      "options": [
+        "ACME"
+      ]
     },
     {
       "name": "Company Size",
@@ -260,12 +262,19 @@
     {
       "name": "Account Manager",
       "type": "Autosuggest",
-      "options": ["George Smith"]
+      "options": [
+        "George Smith"
+      ]
     },
     {
       "name": "Annual Revenue",
       "type": "Select",
-      "options": ["0-100K", "101K-500K", "501K-1M", "1M+"]
+      "options": [
+        "0-100K",
+        "101K-500K",
+        "501K-1M",
+        "1M+"
+      ]
     },
     {
       "name": "Last Modified Date",
@@ -358,7 +367,11 @@
     {
       "name": "At Risk",
       "type": "Select",
-      "options": ["High Risk", "Medium Risk", "Low Risk"]
+      "options": [
+        "High Risk",
+        "Medium Risk",
+        "Low Risk"
+      ]
     }
   ],
   "notifications": [
@@ -1170,5 +1183,53 @@
       "id": 3
     }
   ],
-  "activity": []
+  "activity": [
+    {
+      "type": "Activity",
+      "date": "12/1/20",
+      "title": "Signed up for STAMP! Welcome aboard.",
+      "children": "Thank you for taking your first steps to sign up for STAMP, you are viewing the latest activity. This section will fill up as you complete steps and assessments in STAMP.",
+      "status": null,
+      "data": [],
+      "contactmanagementId": "_tZez1C",
+      "id": 1
+    },
+    {
+      "type": "Assessment",
+      "date": "12/1/20",
+      "title": "Assessment Results",
+      "children": "",
+      "status": "Complete",
+      "data": [
+        {
+          "value": 0,
+          "feedback": "Treats you as a valued customer"
+        },
+        {
+          "value": 1,
+          "feedback": "Exhibits creativity in structuring solutions"
+        },
+        {
+          "value": 2,
+          "feedback": "Addresses your needs with a sense of priority"
+        },
+        {
+          "value": 2,
+          "feedback": "Proactively introduced new product innovations"
+        }
+      ],
+      "contactmanagementId": "_tZez1C",
+      "id": 2
+    },
+    {
+      "type": "Email",
+      "date": "12/1/20",
+      "title": "Headsup Email Sent",
+      "children": "George was just sent a Headsup Email from your Q3 Assessments Workflow",
+      "status": "",
+      "data": [],
+      "contactmanagementId": "_tZez1C",
+      "id": 3
+    }
+  ]
 }
