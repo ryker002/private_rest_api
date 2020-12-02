@@ -1201,6 +1201,16 @@
       "inprogress": 0,
       "complete": 0,
       "id": 1
+    },
+    {
+      "name": "Pre-defined Complete Assessment",
+      "campaign": "Campaign Title",
+      "deployed": "11/20/2020, 2:40:08 PM",
+      "status": "complete",
+      "notstarted": 24,
+      "inprogress": 54,
+      "complete": 102,
+      "id": 2
     }
   ]
 }
