@@ -157,142 +157,6 @@
       ]
     }
   ],
-  "contactfilters": [
-    {
-      "name": "Company Name",
-      "type": "Autosuggest",
-      "options": [
-        "ACME"
-      ]
-    },
-    {
-      "name": "Company Size",
-      "type": "Select",
-      "options": [
-        "0 - 10",
-        "10 - 50",
-        "50 - 100",
-        "100 - 500",
-        "500 - 1000",
-        "1000 - 5000",
-        "5000 +"
-      ]
-    },
-    {
-      "name": "Account Manager",
-      "type": "Autosuggest",
-      "options": [
-        "George Smith"
-      ]
-    },
-    {
-      "name": "Annual Revenue",
-      "type": "Select",
-      "options": [
-        "0-100K",
-        "101K-500K",
-        "501K-1M",
-        "1M+"
-      ]
-    },
-    {
-      "name": "Last Modified Date",
-      "type": "Select",
-      "options": [
-        "Last 7 Days",
-        "Last 30 Days",
-        "Last 60 Days",
-        "Last 90 Days",
-        "Last 365 Days"
-      ]
-    },
-    {
-      "name": "Last Activity Date",
-      "type": "Select",
-      "options": [
-        "Last 7 Days",
-        "Last 30 Days",
-        "Last 60 Days",
-        "Last 90 Days",
-        "Last 365 Days"
-      ]
-    },
-    {
-      "name": "Last Contacted",
-      "type": "Select",
-      "options": [
-        "Last 7 Days",
-        "Last 30 Days",
-        "Last 60 Days",
-        "Last 90 Days",
-        "Last 365 Days"
-      ]
-    },
-    {
-      "name": "Assessment Started",
-      "type": "Select",
-      "options": [
-        "Last 7 Days",
-        "Last 30 Days",
-        "Last 60 Days",
-        "Last 90 Days",
-        "Last 365 Days"
-      ]
-    },
-    {
-      "name": "Assessment Completed",
-      "type": "Select",
-      "options": [
-        "Last 7 Days",
-        "Last 30 Days",
-        "Last 60 Days",
-        "Last 90 Days",
-        "Last 365 Days"
-      ]
-    },
-    {
-      "name": "Assessment Not Completed",
-      "type": "Select",
-      "options": [
-        "Last 7 Days",
-        "Last 30 Days",
-        "Last 60 Days",
-        "Last 90 Days",
-        "Last 365 Days"
-      ]
-    },
-    {
-      "name": "Last Workflow Click",
-      "type": "Select",
-      "options": [
-        "Last 7 Days",
-        "Last 30 Days",
-        "Last 60 Days",
-        "Last 90 Days",
-        "Last 365 Days"
-      ]
-    },
-    {
-      "name": "Last Workflow Open",
-      "type": "Select",
-      "options": [
-        "Last 7 Days",
-        "Last 30 Days",
-        "Last 60 Days",
-        "Last 90 Days",
-        "Last 365 Days"
-      ]
-    },
-    {
-      "name": "At Risk",
-      "type": "Select",
-      "options": [
-        "High Risk",
-        "Medium Risk",
-        "Low Risk"
-      ]
-    }
-  ],
   "notifications": [
     {
       "content": "George has just finished his assessment, view results now!"
@@ -448,114 +312,6 @@
     "question": "Is there anything else you'd like to add?",
     "thankyouStatement": "Thank you!"
   },
-  "contactTableColumns": [
-    {
-      "field": "index",
-      "hide": true
-    },
-    {
-      "field": "id",
-      "hide": true
-    },
-    {
-      "field": "name",
-      "headerName": "Name",
-      "width": 150
-    },
-    {
-      "field": "email",
-      "headerName": "Email",
-      "width": 250
-    },
-    {
-      "field": "phone",
-      "headerName": "Phone Number",
-      "width": 150
-    },
-    {
-      "field": "company",
-      "headerName": "Company"
-    },
-    {
-      "field": "owner",
-      "headerName": "Account Manager"
-    },
-    {
-      "field": "associated",
-      "headerName": "Associated"
-    },
-    {
-      "field": "address",
-      "headerName": "Address"
-    },
-    {
-      "field": "city",
-      "headerName": "City"
-    },
-    {
-      "field": "state",
-      "headerName": "State"
-    },
-    {
-      "field": "zip",
-      "headerName": "Zip"
-    }
-  ],
-  "companyColumns": [
-    {
-      "headerName": "Name",
-      "field": "companyname"
-    },
-    {
-      "headerName": "Email",
-      "field": "email",
-      "width": 250
-    },
-    {
-      "headerName": "Phone Number",
-      "field": "phone",
-      "width": 150
-    },
-    {
-      "headerName": "Account Manager",
-      "field": "owner"
-    },
-    {
-      "headerName": "Associated",
-      "field": "associated"
-    },
-    {
-      "headerName": "Address",
-      "field": "address",
-      "width": 250
-    }
-  ],
-  "contactListColumns": [
-    {
-      "headerName": "Name",
-      "field": "listname"
-    },
-    {
-      "headerName": "Type",
-      "field": "type",
-      "width": 150
-    },
-    {
-      "headerName": "# of Contacts",
-      "field": "size",
-      "width": 250
-    },
-    {
-      "headerName": "Last Updated",
-      "field": "LastUpdated",
-      "width": 250
-    },
-    {
-      "headerName": "Filters",
-      "field": "filters",
-      "width": 150
-    }
-  ],
   "workflows": [
     {
       "name": "Seasonal Reviews",
@@ -1578,6 +1334,27 @@
       "resolutionEmail": "james@muvideas.com",
       "question2": true,
       "id": 4
+    },
+    {
+      "name": "Test",
+      "deployed": "",
+      "status": "draft",
+      "notstarted": 0,
+      "inprogress": 0,
+      "complete": 0,
+      "journey": "1",
+      "event": "undefined",
+      "template": "Company Focus",
+      "type": "ongoing",
+      "campaign": "List 4",
+      "contactList": "List 2",
+      "workflow": "List 4",
+      "theme": "light",
+      "color": "purple",
+      "resolutionEmail": "james@muvideas.com",
+      "question1": true,
+      "question3": true,
+      "id": 5
     }
   ]
 }

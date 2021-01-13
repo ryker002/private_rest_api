@@ -1,0 +1,177 @@
+{
+  "contactmanagement": {
+    "contacts": {
+      "post": {
+        "picture": null,
+        "name": {
+          "first": null,
+          "last": null
+        },
+        "company": 0,
+        "email": null,
+        "phone": null,
+        "owner": 0,
+        "position": null,
+        "associated": 0,
+        "address": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "createdon": null,
+        "lastcontact": "",
+        "notes": [
+          {
+            "note": "There are no notes, add one now!"
+          }
+        ],
+        "activity": [
+          {
+            "heading": "No Activity Found",
+            "content": "Please wait until an Activity is Recoreded"
+          }
+        ]
+      }
+    },
+    "notes": {
+      "post": {
+        "note": null,
+        "date": null
+      },
+      "patch": {
+        "note": null,
+        "lastuodated": null,
+        "id": null
+      }
+    },
+    "individual": {
+      "contact": {
+        "put": {
+          "picture": null,
+          "company": null,
+          "email": null,
+          "phone": null,
+          "owner": null,
+          "position": null,
+          "associated": null,
+          "address": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "createdon": null,
+          "lastcontact": null,
+          "region": null,
+          "randomnonsense": null,
+          "segments": {
+            "unitedstates": false,
+            "midwest": false,
+            "largegroup": false,
+            "smallgroup": false
+          },
+          "fullname": "",
+          "name": {
+            "first": null,
+            "last": null
+          }
+        },
+        "patch": { "company": null }
+      },
+      "company": {
+        "put": {
+          "companyname": null,
+          "picture": null,
+          "email": null,
+          "phone": null,
+          "address": null,
+          "createdon": null,
+          "lastcontact": null,
+          "segments": {
+            "unitedstates": false,
+            "midwest": false,
+            "largegroup": false,
+            "smallgroup": false
+          }
+        }
+      },
+      "global": {
+        "patch": {
+          "segments": {
+            "unitedstates": false,
+            "midwest": false,
+            "largegroup": false,
+            "smallgroup": false
+          }
+        }
+      }
+    }
+  },
+  "assessments": {
+    "post": {
+      "name": null,
+      "deployed": null,
+      "status": null,
+      "notstarted": null,
+      "inprogress": null,
+      "complete": null,
+      "journey": null,
+      "event": null,
+      "template": null,
+      "type": null,
+      "campaign": null,
+      "contactList": null,
+      "workflow": null,
+      "theme": null,
+      "color": null,
+      "companyLogo": null,
+      "resolutionEmail": null,
+      "resolutionCalendly": null
+    }
+  },
+  "communication/workflows": {
+    "post": {
+      "name": null,
+      "type": null,
+      "campaign": "",
+      "deployed": null,
+      "status": null,
+      "clicks": null,
+      "opens": null,
+      "sends": null,
+      "emails": {
+        "headsup": null,
+        "invitation": null,
+        "reminder": null,
+        "resolution": null,
+        "thankyou": null
+      }
+    },
+    "patch": {
+      "emails": {
+        "headsup": null,
+        "invitation": null,
+        "reminder": null,
+        "resolution": null,
+        "thankyou": null
+      }
+    },
+    "emails": {
+      "post": {
+        "type": null,
+        "sequence": null,
+        "trigger": null,
+        "schedule": null,
+        "filter": null,
+        "action": null,
+        "LastEdited": null,
+        "opens": null,
+        "clicks": null,
+        "sends": null
+      },
+      "patch": {
+        "subject": null,
+        "content": null,
+        "template": null,
+        "LastEdited": null
+      }
+    }
+  }
+}
