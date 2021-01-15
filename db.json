@@ -193,6 +193,48 @@
     "importanceTitle": "We want to learn what is important to you.",
     "importanceSubtitle": "On the next few screens: "
   },
+  "questions": [
+    {
+      "question": "Provides access to knowledgeable experts",
+      "id": 1,
+      "key": "45666024-35bb-4d52-9979-b14259406413"
+    },
+    {
+      "question": "Provides flexibility in product options",
+      "id": 2,
+      "key": "8bed2cab-f5da-4aa9-82d8-e962d2bbef17"
+    },
+    {
+      "question": "Demonstrates an understanding of your industry",
+      "id": 3,
+      "key": "384fa8e4-7bdc-4d6c-9e40-ac29452efa4e"
+    },
+    {
+      "question": "Expedites resolutions to your problems",
+      "id": 4,
+      "key": "ef865af7-cc27-4f14-9cd4-76f779249969"
+    },
+    {
+      "question": "Provides useful analysis of your data",
+      "id": 5,
+      "key": "360ae6c0-897b-4bcd-aafb-352fd20fbec5"
+    },
+    {
+      "question": "Proposes tailored Solutions",
+      "id": 6,
+      "key": "edf8a541-cc82-4a97-8197-f124f0c6612b"
+    },
+    {
+      "question": "Provides useful analysis of your data",
+      "id": 7,
+      "key": "36efbbd9-0d67-40bc-b2ff-0a44c02c3566"
+    },
+    {
+      "question": "Proposes tailored Solutions",
+      "id": 8,
+      "key": "ba6f6213-6f75-4343-89b6-ec3d8ca22563"
+    }
+  ],
   "ImportanceCardSets": [
     {
       "index": 0,
@@ -1281,7 +1323,39 @@
       "notstarted": 0,
       "inprogress": 0,
       "complete": 0,
-      "id": 1
+      "id": 1,
+      "type": "onetime",
+      "contactList": {
+        "id": 1,
+        "listname": "LIST 1",
+        "size": 326,
+        "type": "Contacts",
+        "LastUpdated": "Sun Mar 31 2019 02:18:06 GMT+0000 (UTC)",
+        "contactId": 1,
+        "Usedin": 1,
+        "filters": "Segment: North America & Revenue above 100K"
+      },
+      "workflow": {
+        "name": "Post Seasonal",
+        "type": "Workflow",
+        "campaign": "",
+        "deployed": "12/15/2020, 2:54:47 PM",
+        "status": "draft",
+        "clicks": 0,
+        "opens": 0,
+        "sends": 0,
+        "emails": {
+          "headsup": 1,
+          "invitation": 1,
+          "reminder": 1,
+          "resolution": 1,
+          "thankyou": 1
+        },
+        "id": 2
+      },
+      "theme": "dark",
+      "resolutionEmail": "email@email.com",
+      "question3": true
     },
     {
       "name": "Pre-defined Complete Assessment",
@@ -1355,6 +1429,54 @@
       "question1": true,
       "question3": true,
       "id": 5
+    },
+    {
+      "name": "a",
+      "deployed": "",
+      "status": "draft",
+      "notstarted": 0,
+      "inprogress": 0,
+      "complete": 0,
+      "journey": "2",
+      "event": "undefined",
+      "template": "Company Focus",
+      "contactList": {
+        "id": 1,
+        "listname": "LIST 1",
+        "size": 326,
+        "type": "Contacts",
+        "LastUpdated": "Sun Mar 31 2019 02:18:06 GMT+0000 (UTC)",
+        "contactId": 1,
+        "Usedin": 1,
+        "filters": "Segment: North America & Revenue above 100K"
+      },
+      "workflow": {
+        "name": "3",
+        "type": "Workflow",
+        "campaign": "",
+        "deployed": "12/15/2020, 3:22:12 PM",
+        "status": "draft",
+        "clicks": 0,
+        "opens": 0,
+        "sends": 0,
+        "emails": {
+          "headsup": 1,
+          "invitation": 1,
+          "reminder": 1,
+          "resolution": 1,
+          "thankyou": 1
+        },
+        "id": 3
+      },
+      "theme": "light",
+      "color": "purple",
+      "resolutionEmail": "jamesrlew@gmail.com",
+      "format": "Survey",
+      "question1": true,
+      "question3": true,
+      "id": 6,
+      "type": "ongoing",
+      "question2": true
     }
   ]
 }
